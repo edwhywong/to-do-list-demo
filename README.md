@@ -1,5 +1,6 @@
 # React todo list demo
 
+Live Demo: [https://edwhywong.github.io/to-do-list-demo](https://edwhywong.github.io/to-do-list-demo) 
 ## Installation
 
 ```
@@ -28,4 +29,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
+
+## Deploy (gh-pages)
+After the build is completed, run
+```
+yarn deploy
+```
 
